@@ -47,9 +47,26 @@ A construção do protótipo utilizou materiais acessíveis:
 
 *(Sugestão: Adicionar um link para um vídeo curto do motor rodando conectado à fonte de bancada).*
 
+## ⚡ Especificações de Alimentação
+
+| Parâmetro | Especificação | Observação |
+| :--- | :--- | :--- |
+| **Tensão de Operação** | 15 V | Utilizar fonte de bancada em Corrente Contínua (DC). |
+| **Conexão** | Bornes tipo Banana | Respeitar a polaridade (Vermelho = Positivo, Preto = Negativo). |
+| **Corrente** | Variável | A corrente será definida pela demanda de torque e resistência das bobinas. |
+
+## 🛠️ Guia de Manutenção Simples
+
+Para garantir o bom funcionamento e a durabilidade do protótipo, realize as seguintes verificações periodicamente:
+
+1. **Ajuste da Tensão das Escovas:** Com o uso, as lâminas metálicas laterais (escovas) podem perder a elasticidade e afastar do eixo. Dobre-as levemente para dentro com os dedos para garantir que mantenham um contato elétrico firme com o comutador, mas sem apertar demais para não frear o motor por excesso de atrito mecânico.
+2. **Limpeza do Comutador:** O atrito contínuo entre as escovas e o comutador pode gerar resíduos escuros ou oxidação, prejudicando a condução elétrica. Limpe os quatro segmentos do comutador periodicamente.
+3. **Inspeção das Conexões:** Verifique visualmente se os fios vermelho e preto continuam bem soldados nas bases das escovas metálicas e se os bornes de conexão não estão frouxos ou com fios rompidos.
+4. **Verificação do Eixo e Atrito:** Com o motor desligado, gire o eixo central com a mão. Ele deve girar livremente, sem "agarrar".
+   
 ## 📚 Referências
 
-* Documentação interna PETEE – Padrões de documentação e protótipos anteriores.
+* Documentação interna PETEE
 
 ## 👥 Equipe
 
