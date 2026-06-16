@@ -41,12 +41,11 @@ A construção do protótipo utilizou materiais acessíveis:
 
 ## 🎥 Mídia e Funcionamento
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-06-16 at 19 14 59" src="https://github.com/user-attachments/assets/ff7facc2-4a9a-46df-a0d6-8157f63e1c5e" />
-<img width="960" height="1280" alt="WhatsApp Image 2026-06-16 at 19 15 06" src="https://github.com/user-attachments/assets/5ec750a3-6154-4100-b722-d8d87792a8b9" />
-<img width="960" height="1280" alt="WhatsApp Image 2026-06-16 at 19 15 16" src="https://github.com/user-attachments/assets/10073dc3-0cee-4c40-8621-a1f15d9cefea" />
+<img width="500" alt="WhatsApp Image 2026-06-16 at 19 14 59" src="https://github.com/user-attachments/assets/ff7facc2-4a9a-46df-a0d6-8157f63e1c5e" />
 
+<img width="500" alt="WhatsApp Image 2026-06-16 at 19 15 06" src="https://github.com/user-attachments/assets/5ec750a3-6154-4100-b722-d8d87792a8b9" />
 
-*(Sugestão: Adicionar um link para um vídeo curto do motor rodando conectado à fonte de bancada).*
+<img width="500" alt="WhatsApp Image 2026-06-16 at 19 15 16" src="https://github.com/user-attachments/assets/10073dc3-0cee-4c40-8621-a1f15d9cefea" />
 
 ## ⚡ Especificações de Alimentação
 
