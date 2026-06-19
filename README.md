@@ -53,7 +53,7 @@ A construção do protótipo utilizou materiais acessíveis:
 | :--- | :--- | :--- |
 | **Tensão de Operação** | 15 V | Utilizar fonte de bancada em Corrente Contínua (DC). |
 | **Conexão** | Bornes tipo Banana | Respeitar a polaridade (Vermelho = Positivo, Preto = Negativo). |
-| **Corrente** | Variável | A corrente será definida pela demanda de torque e resistência das bobinas. |
+| **Corrente** | Variável | A corrente será definida pela demanda de torque e resistência das bobinas, porém é recomendado limitar a corrente na fonte entre 500 e 700 mA, para evitar superaquecimento. |
 
 ## 🛠️ Guia de Manutenção Simples
 
