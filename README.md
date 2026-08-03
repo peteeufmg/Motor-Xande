@@ -1,4 +1,4 @@
-# ⚙️ Motor Xande – Protótipo Didático
+# ⚙️ Motor Xande – Protótipo Didático -
 
 Este protótipo de motor elétrico visa o enriquecimento e melhoria do acervo no âmbito da iniciativa PETEE Protótipos (UFMG). Como proposta inicial, foi desenvolvido um protótipo voltado à experimentação prática em Máquinas Elétricas e Eletromagnetismo, aplicável em disciplinas e visitas de extensão. 
 
